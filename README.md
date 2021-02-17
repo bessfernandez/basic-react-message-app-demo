@@ -1,3 +1,3 @@
-# Coding challenge!
+# Basic message app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ku91ak)
+[StackBlitz demo ⚡️](https://stackblitz.com/edit/react-ku91ak)
